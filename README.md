@@ -8,8 +8,7 @@
     3.1 Drop
     3.2 Encode
  4. Split: train and test data; Y and X variables
- 5. Models
-    5.1 KNN
+ 5. Models \n 5.1 KNN
     5.2 Naive Bayes
     5.3 Decision Trees
         5.3.1 Simple Decision Trees
